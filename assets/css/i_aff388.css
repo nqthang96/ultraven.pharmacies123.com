@@ -1,0 +1,15 @@
+
+    .hide , .flag-dropdown {display: none;} /* обязательно */
+        .error-box{ /* CSS ошибки */
+            color: #fff;
+            background-color: #DE5042;
+            border-radius: 5px;
+            text-align: center;
+            width: 100%;
+            font-size: 13px;
+            line-height: 20px;
+            /*position: absolute;*/
+            margin:0 !important;
+            z-index: 100;
+        }
+    
